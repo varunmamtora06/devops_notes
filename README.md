@@ -15,4 +15,5 @@ The illustrations/flows are made using:
         - [Waterfall method](0_Introduction/0_2_Devops_analogy.md/#waterfall-model)
         - [Agile method](0_Introduction/0_2_Devops_analogy.md/#agile-model)
         - [Devops](0_Introduction/0_2_Devops_analogy.md/#devops)
+    - [Misc. and FAQs](0_Introduction/0_3_Misc.md)
 2. 
